@@ -1,2 +1,2 @@
 # Git Demo
-some code
+some discription of the project
